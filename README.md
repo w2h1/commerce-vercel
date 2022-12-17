@@ -24,7 +24,7 @@ Demo live at: [demo.vercel.store](https://demo.vercel.store/)
 
 ```bash
 pnpm install & pnpm build # run these commands in the root folder of the mono repo
-pnpm dev # run this command in the site folder
+pnpm dev # run this command in the site folder222
 ```
 
 > If you encounter any problems while installing and running for the first time, please see the Troubleshoot section
