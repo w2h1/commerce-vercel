@@ -45,7 +45,7 @@ pnpm dev # run this command in the site folder
 
 Next.js Commerce integrates out-of-the-box with BigCommerce, Shopify, Swell, Saleor, Vendure, Spree and Commerce.js. We plan to support all major ecommerce backends.
 
-## Considerations
+## Considerations1
 
 - `packages/commerce` contains all types, helpers and functions to be used as a base to build a new **provider**.
 - **Providers** live under `packages`'s root folder and they will extend Next.js Commerce types and functionality (`packages/commerce`).
